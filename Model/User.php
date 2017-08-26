@@ -2,8 +2,10 @@
 
 namespace Ecommerce\Model;
 
-use Ecommerce\Model\ShoppingCart;
 include("ShoppingCart.php");
+
+use Ecommerce\Model\ShoppingCart;
+
 
 
 class User
